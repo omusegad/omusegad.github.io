@@ -1,0 +1,9 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  background-image: var(--noise-3), linear-gradient(0deg, #120720, #120720);
+  font-family: "Inter";
+  color: white;
+  background-size: 100% 500%;
+}
